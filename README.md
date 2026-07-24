@@ -26,7 +26,7 @@ The PCB was made in KiCAD, The silkscreen was imported from a Figma image.
 
 ## Firmware Overview:
 This hackpad uses [QMK](https://qmk.fm/) firmware.
-- To turn on/off the RGB backlighting, press 
+- To turn on/off the RGB backlighting, press and hold the top-left key and the bottom-right key together
 - All keys act as macros to be assigned to whatever you'd like.
 
 ## BOM:
