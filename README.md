@@ -1,10 +1,10 @@
-# BlackVoiceMacropad
-A macropad inspired by "Black Voice" an ability in a popular manga called Hunter X Hunter by Yoshihiro Togashi
+# Macronark, a HXH inspired macropad
+A macropad inspired by Shalnark's ability in a popular manga called Hunter X Hunter by Yoshihiro Togashi
 
-The "Black Voice" is a 12 key macropad with RGB backlit keys. It uses QMK firmware and is upgradable with a 6-pin JST port on the PCB.
+The "Macronark" is a 12 key macropad with RGB backlit keys. It uses QMK firmware and is upgradable with a 6-pin JST port on the back of the PCB.
 
 ## Features:
-- Full PLA Black Voice inspired case
+- Full PLA Shalnark inspired case
 - 12 blank DSA keys
 - 12 SK6812 MINI-E LEDs for backlighting
 
