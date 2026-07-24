@@ -1772,7 +1772,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 125.73) (xy 182.88 127)
+			(xy 179.07 62.23) (xy 179.07 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2212,7 +2212,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 125.73) (xy 182.88 125.73)
+			(xy 181.61 62.23) (xy 179.07 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2461,7 +2461,7 @@
 		(uuid "b17f8295-465d-4ae4-81ec-e84cfc7f8468")
 	)
 	(label "PWR"
-		(at 185.42 120.65 180)
+		(at 181.61 57.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2471,7 +2471,7 @@
 		(uuid "c1f1e2da-9579-424b-b237-5f9a3f8d1419")
 	)
 	(label "JST"
-		(at 185.42 123.19 180)
+		(at 181.61 59.69 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2621,7 +2621,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 182.88 127 0)
+		(at 179.07 63.5 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2632,7 +2632,7 @@
 		(fields_autoplaced yes)
 		(uuid "093eeaa4-564b-4514-bb93-aae70e82d99a")
 		(property "Reference" "#PWR02"
-			(at 182.88 133.35 0)
+			(at 179.07 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2643,7 +2643,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 182.88 132.08 0)
+			(at 179.07 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2653,7 +2653,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 127 0)
+			(at 179.07 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2664,7 +2664,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 127 0)
+			(at 179.07 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2675,7 +2675,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 182.88 127 0)
+			(at 179.07 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2972,7 +2972,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Socket")
-		(at 190.5 118.11 0)
+		(at 186.69 54.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2983,7 +2983,7 @@
 		(fields_autoplaced yes)
 		(uuid "14fe86e4-3023-4f83-86e9-16050c367d5e")
 		(property "Reference" "J1"
-			(at 191.77 118.1099 0)
+			(at 187.96 54.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2994,7 +2994,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06_Socket"
-			(at 191.77 120.6499 0)
+			(at 187.96 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3005,7 +3005,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S6B-PH-K_1x06_P2.00mm_Horizontal"
-			(at 190.5 118.11 0)
+			(at 186.69 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3016,7 +3016,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 118.11 0)
+			(at 186.69 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3027,7 +3027,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 190.5 118.11 0)
+			(at 186.69 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
