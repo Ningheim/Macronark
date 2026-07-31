@@ -12,22 +12,30 @@ The "Macronark" is a 12 key macropad with RGB backlit keys. It uses QMK firmware
 Everything is fitted together with 6 M3 bolts and heatset inserts. The PCB sits in flush with the case but there is 1 M3 screw hole if you'd like to secure it to your own case.
 
 It's in 2 parts, 1 part for the body and another for the cover.
-<img width="764" height="750" alt="CAD" src="https://github.com/user-attachments/assets/b112f134-065e-48bf-84a5-8e6dcc7d27d9" />
+![EmptyCase](https://i.imgur.com/Q2eDnru.png)
 Made in Onshape
 At a later time a seperate PCB will be used to fill the top portion of the case. More RGB LEDs will be used to light up the eye cutouts and a OLED screen will go inside the mouth just as the series depicts it.
 
 ## PCB:
 The PCB was made in KiCAD, The silkscreen was imported from a Figma image.
+
 #### Schematic
-<img width="1297" height="676" alt="SCH" src="https://github.com/user-attachments/assets/9999560a-d06f-4f94-8e77-cc5c69798cbe" />
+![Schematic](https://i.imgur.com/WAbJJbV.png)
+
 #### PCB
-<img width="552" height="737" alt="PCB" src="https://github.com/user-attachments/assets/b38f5817-ea63-4868-a789-e6f2f8483524" />
-<img width="545" height="747" alt="3DPCB" src="https://github.com/user-attachments/assets/8d5f335b-e025-42be-a357-9c565dec8f0f" />
+![PCB](https://i.imgur.com/gaEzpVr.png)
+![3DPCB](https://i.imgur.com/q8mPvWv.png)
+
+# Finished Product
+Once you've printed everything and inserted/soldered all of the components, the result should look like this! 🥳
+[]
+![Product](https://i.imgur.com/sT4XB3J.png)
 
 ## Firmware Overview:
 This hackpad uses [QMK](https://qmk.fm/) firmware.
 - To turn on/off the RGB backlighting, press and hold the top-left key and the bottom-right key together
 - All keys act as macros to be assigned to whatever you'd like.
+
 
 ## BOM:
 Here's everything you need to make this hackpad
