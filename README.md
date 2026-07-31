@@ -27,8 +27,7 @@ The PCB was made in KiCAD, The silkscreen was imported from a Figma image.
 ![3DPCB](https://i.imgur.com/q8mPvWv.png)
 
 # Finished Product
-Once you've printed everything and inserted/soldered all of the components, the result should look like this! 🥳
-[]
+Once you've printed everything and inserted/soldered all of the components, the result should look like this! (With keycaps of your choice of course 😅)
 ![Product](https://i.imgur.com/sT4XB3J.png)
 
 ## Firmware Overview:
