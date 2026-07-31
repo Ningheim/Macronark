@@ -376,7 +376,18 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1478,7 +1489,18 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1771,6 +1793,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2236,12 +2269,6 @@
 		(path "/b46ed649-7e7f-42f2-9af9-1630e7b9c224")
 		(sheetname "/")
 		(sheetfile "bv_PCB.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2460,6 +2487,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2468,6 +2496,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3167,6 +3206,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -3457,6 +3507,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4154,6 +4215,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -6767,6 +6839,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -7057,6 +7140,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -7454,7 +7548,18 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -7749,6 +7854,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -8038,7 +8154,18 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "C:/Users/freed/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -16388,14 +16515,6 @@
 		(uuid "35132a58-06dd-41a5-834b-cc35b1a9d987")
 	)
 	(via
-		(at 92.075 101.6)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "/PWR")
-		(uuid "58f4ed9c-c8ac-4b40-8ac5-4b7419d8b0e8")
-	)
-	(via
 		(at 128.905 160.69)
 		(size 0.6)
 		(drill 0.3)
@@ -18026,14 +18145,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "/Col 0")
 		(uuid "2003ad60-5a1b-4590-a285-8fa45eb34b25")
-	)
-	(segment
-		(start 122.2375 164.7825)
-		(end 123.195 164.7825)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "/Col 0")
-		(uuid "1a32fbfd-f7ea-41b7-af9a-ff94a0a3ed3d")
 	)
 	(segment
 		(start 102.87 145.415)
