@@ -12,7 +12,7 @@ The "Macronark" is a 12 key macropad with RGB backlit keys. It uses QMK firmware
 Everything is fitted together with 6 M3 bolts and heatset inserts. The PCB sits in flush with the case but there is 1 M3 screw hole if you'd like to secure it to your own case.
 
 It's in 2 parts, 1 part for the body and another for the cover.
-![EmptyCase](https://i.imgur.com/Q2eDnru.png)
+![EmptyCase](https://i.imgur.com/BLMnTa5.png)
 Made in Onshape
 At a later time a seperate PCB will be used to fill the top portion of the case. More RGB LEDs will be used to light up the eye cutouts and a OLED screen will go inside the mouth just as the series depicts it.
 
