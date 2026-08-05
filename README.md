@@ -48,3 +48,5 @@ Here's everything you need to make this hackpad
 -6x M3x5mx4mm heatset inserts
 -1x Case, All 3D Printed
 ```
+
+Note: Fixed source file issue about the 3mf files. Changed it to steps and stls
